@@ -54,3 +54,16 @@ This project uses a **synthetic dataset created for analytical methodology demon
 ## 🔄 Workflow
 
 Data → Cleaning → SQL → Analysis → Visualization → Insights → Skill Gap Analysis
+## 📊 Visualizations
+
+### Skill Demand
+![Skill Demand](skill_demand.png)
+
+### Salary by Role
+![Salary by Role](salary_by_role.png)
+
+### Salary by Location
+![Salary by Location](salary_by_location.png)
+
+### AI Skill Demand
+![AI Skill Demand](ai_skill_demand.png)
