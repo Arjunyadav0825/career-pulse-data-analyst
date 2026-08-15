@@ -67,3 +67,27 @@ Visualization
 Skill Gap Analysis
       ↓
 Business Insights
+
+# 📊 Visualizations
+
+## 1. Skill Demand
+
+![Skill Demand](./skill_demand.png)
+
+---
+
+## 2. Salary by Role
+
+![Salary by Role](./salary_by_role.png)
+
+---
+
+## 3. Salary by Location
+
+![Salary by Location](./salary_by_location.png)
+
+---
+
+## 4. AI Skill Demand
+
+![AI Skill Demand](./ai_skill_demand.png)
