@@ -198,41 +198,84 @@ Recommend Priority Skills
 
 ---
 
-## 📊 Visualizations
+# 📊 Visualizations
 
-The project includes four major visualizations generated using Python and Matplotlib.
+The project includes four major visualizations generated using Python, Pandas, and Matplotlib.
 
-### 1. 📈 Skill Demand
+---
+
+## 1. 📈 Skill Demand
 
 This chart compares the demand for different technical skills across the analyzed jobs.
 
-![Skill Demand](./skill_demand.png)
+<p align="center">
+<img src="https://raw.githubusercontent.com/Arjunyadav0825/career-pulse-data-analyst/main/skill_demand.png" width="900" alt="Skill Demand Analysis">
+</p>
+
+### Key Insight
+
+The analysis compares demand for AWS, GenAI, Excel, Python, Statistics, Machine Learning, Tableau, Prompt Engineering, Power BI, and SQL.
 
 ---
 
-### 2. 💰 Salary by Role
+## 2. 💰 Salary by Role
 
 This chart compares the average salary across different job roles.
 
-![Salary by Role](./salary_by_role_.png)
+<p align="center">
+<img src="https://raw.githubusercontent.com/Arjunyadav0825/career-pulse-data-analyst/main/salary_by_role.png" width="900" alt="Average Salary by Role">
+</p>
+
+### Key Insight
+
+The visualization compares average salary across Data Analyst, BI Analyst, Business Analyst, and Product Analyst roles.
 
 ---
 
-### 3. 📍 Salary by Location
+## 3. 📍 Salary by Location
 
-This chart compares salary levels across different locations.
+This chart compares average salary across different locations.
 
-![Salary by Location](./salary_by_location_.png)
+<p align="center">
+<img src="https://raw.githubusercontent.com/Arjunyadav0825/career-pulse-data-analyst/main/salary_by_location.png" width="900" alt="Average Salary by Location">
+</p>
+
+### Key Insight
+
+The visualization helps identify differences in salary levels across the locations represented in the dataset.
 
 ---
 
-### 4. 🤖 AI Skill Demand
+## 4. 🤖 AI Skill Demand
 
-This chart shows the demand for AI-related skills including GenAI, Machine Learning, and Prompt Engineering.
+This chart compares demand for AI-related skills.
 
-![AI Skill Demand](./ai_skill_demand_.png)
+<p align="center">
+<img src="https://raw.githubusercontent.com/Arjunyadav0825/career-pulse-data-analyst/main/ai_skill_demand.png" width="900" alt="AI Skill Demand">
+</p>
+
+### AI Skills Analyzed
+
+- GenAI
+- Machine Learning
+- Prompt Engineering
+
+### Key Insight
+
+The visualization compares the demand for AI-related skills within the analyzed job dataset.
+
 ---
 
+## 📌 Visualization Summary
+
+| Visualization | Purpose |
+|---|---|
+| 📈 Skill Demand | Compare technical skill demand |
+| 💰 Salary by Role | Compare average salary by job role |
+| 📍 Salary by Location | Compare salary across locations |
+| 🤖 AI Skill Demand | Analyze AI-related skill demand |
+
+---
 # 🎯 Business Questions
 
 | # | Business Question |
