@@ -198,11 +198,11 @@ Recommend Priority Skills
 
 ---
 
-# 📊 Visualizations
+## 📊 Visualizations
 
 The project includes four major visualizations generated using Python and Matplotlib.
 
-## 1. 📈 Skill Demand
+### 1. 📈 Skill Demand
 
 This chart compares the demand for different technical skills across the analyzed jobs.
 
@@ -210,28 +210,27 @@ This chart compares the demand for different technical skills across the analyze
 
 ---
 
-## 2. 💰 Salary by Role
+### 2. 💰 Salary by Role
 
 This chart compares the average salary across different job roles.
 
-![Salary by Role](./salary_by_role.png)
+![Salary by Role](./salary_by_role_.png)
 
 ---
 
-## 3. 📍 Salary by Location
+### 3. 📍 Salary by Location
 
 This chart compares salary levels across different locations.
 
-![Salary by Location](./salary_by_location.png)
+![Salary by Location](./salary_by_location_.png)
 
 ---
 
-## 4. 🤖 AI Skill Demand
+### 4. 🤖 AI Skill Demand
 
 This chart shows the demand for AI-related skills including GenAI, Machine Learning, and Prompt Engineering.
 
-![AI Skill Demand](./ai_skill_demand.png)
-
+![AI Skill Demand](./ai_skill_demand_.png)
 ---
 
 # 🎯 Business Questions
